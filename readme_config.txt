@@ -16,3 +16,4 @@ This file shows where to alter specfic configeration options.
 * train.py configuration *
 
 - Configure training set to be used for sgan (if 1: in train.py)
+- Configure number of GPU's to use ((un)comment line 47-50)
