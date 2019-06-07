@@ -10,9 +10,10 @@
 #----------------------------------------------------------------------------
 # Paths.
 
-result_dir = 'results'
-data_dir = 'datasets'
-cache_dir = 'cache'
+# Change to your home directory
+result_dir = '/home/tkuiper/stylegan_results'
+data_dir = '/scratch/CelebA'
+cache_dir = 'home/tkuiper/stylegan_cache'
 run_dir_ignore = ['results', 'datasets', 'cache']
 
 #----------------------------------------------------------------------------
